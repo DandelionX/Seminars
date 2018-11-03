@@ -1,8 +1,11 @@
 # Two-days-Technical-Seminar
+
+
 Invited talks:
 
 
-Morning, 2018-10-27
+
+【Morning, 2018-10-27】
 
 （1）Tang Wei
 
@@ -17,7 +20,8 @@ Morning, 2018-10-27
 Python 读写文件/Pandas/Matplotlib可视化
 
 
-Afternoon, 2018-10-27
+
+【Afternoon, 2018-10-27】
 
 （4）Wu Lue
 
@@ -28,7 +32,10 @@ Afternoon, 2018-10-27
 机器学习和深度学习简介/深度神经网络DNN/卷积神经网络CNN/循环神经网络RNN/天气预报温度订正项目研究报告
 
 
-Morning, 2018-10-28
+
+【Morning, 2018-10-28】
+
+
 
 （6）Gao Lihao
 
@@ -44,8 +51,13 @@ Morning, 2018-10-28
 
 
 
-Afternoon, 2018-10-28
+
+【Afternoon, 2018-10-28】
+
+
 
 （9）Zhu Guangxiang
 
 Hot topics in Machine Learning
+
+
