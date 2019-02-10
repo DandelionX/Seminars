@@ -1,6 +1,6 @@
 # Two-days-Technical-Seminar
 We invited 9 experts to present their studies about machine learning applications.
-
+https://github.com/DandelionX/news-or-notice/blob/master/Two-days-Technical-Seminar
 
 
 # Loss of work productivity in a warming world
