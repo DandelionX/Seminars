@@ -1,5 +1,7 @@
 # Recruitment/招聘
-Recruit postdoctoral fellow/ Ph.D/ Master, every year:
+Recruit postdoctoral fellow/ Ph.D/ Master, every year, research fields include: machine learning, weather forecasting/prediction, short-term/seasonal climate prediction
+please contact xiajj@tea.ac.cn, Doctor XIA Jiangjiang
+https://github.com/DandelionX/news-or-notice/blob/master/Recruitment
 
 
 
