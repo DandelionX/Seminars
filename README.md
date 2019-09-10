@@ -4,6 +4,11 @@ please contact xiajj@tea.ac.cn, Doctor XIA Jiangjiang
 https://github.com/DandelionX/news-or-notice/blob/master/Recruitment
 
 
+# Photos taken in imgdamei 大美映像 https://www.imgdamei.com/
+
+https://www.zcool.com.cn/work/ZMzc1ODAxMzI=.html
+
+https://mp.weixin.qq.com/s/7qY_evaaNOjxTHs7acwtMg
 
 
 # Two-days-Technical-Seminar, Date 2018-10-27, 28
