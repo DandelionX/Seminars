@@ -4,6 +4,9 @@ please contact xiajj@tea.ac.cn, Doctor XIA Jiangjiang
 https://github.com/DandelionX/news-or-notice/blob/master/Recruitment
 
 
+# Invited Professor YU Xiaoding to give us a lecture about RADAR and Severe Convection 2019-09-12
+
+
 # Airport runway wind prediction model，cooperating with EASY company 2019-9-10
 
 https://mp.weixin.qq.com/s/sZxtHuKMZlQxBB_e95FSag
